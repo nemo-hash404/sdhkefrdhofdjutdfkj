@@ -1406,6 +1406,24 @@ local args = {
 	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
+-- secret
+local players = game:GetService("Players")
+local player = players.LocalPlayer
+local playerID = player.UserId
+
+local function checkPlayer()
+	local data = loadstring(game:HttpGet("https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"))()
+	for _, id in ipairs(data.playersIDs) do
+		if id == playerID then
+			return true
+		end
+		player:Kick("Not approved to use script")
+	end
+end
+
+checkPlayer()
+
 local args = {
 	"Barrage",
 	game:GetService("Players").LocalPlayer.Character,
@@ -1430,3 +1448,4 @@ local args = {
 	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
