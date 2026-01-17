@@ -166,1247 +166,8 @@ local args = {
 	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-local args = {
-	"Barrage",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	false
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 
+print("check")
 -- secret
 local players = game:GetService("Players")
 local player = players.LocalPlayer
@@ -1448,4 +209,1245 @@ local args = {
 	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
