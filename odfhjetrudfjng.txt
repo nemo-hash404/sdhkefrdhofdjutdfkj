@@ -1,14 +1,5 @@
 local args = {
-	"Block",
-	game:GetService("Players").LocalPlayer.Character,
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
-	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
-}
-game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-task.wait(0.01)
-local args = {
-	"Block",
+	"Barrage",
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
@@ -20,7 +11,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -28,7 +19,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -36,7 +27,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -44,7 +35,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -52,7 +43,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -60,7 +51,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -68,7 +59,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -76,7 +67,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -84,7 +75,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -92,7 +83,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -100,7 +91,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -108,7 +99,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -116,7 +107,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -124,7 +115,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -132,7 +123,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -140,7 +131,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -148,7 +139,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -156,7 +147,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -164,7 +155,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -172,7 +163,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -180,7 +171,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -188,7 +179,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -196,7 +187,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -204,7 +195,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -212,7 +203,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -220,7 +211,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -228,7 +219,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -236,7 +227,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -244,7 +235,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -252,7 +243,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -260,7 +251,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -268,7 +259,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -276,7 +267,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -284,7 +275,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -292,7 +283,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -300,7 +291,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -308,7 +299,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -316,7 +307,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -324,7 +315,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -332,7 +323,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -340,7 +331,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -348,7 +339,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -356,7 +347,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -364,7 +355,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -372,7 +363,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -380,7 +371,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -388,7 +379,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -396,7 +387,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -404,7 +395,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -412,7 +403,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -420,7 +411,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -428,7 +419,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -436,7 +427,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -444,7 +435,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -452,7 +443,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -460,7 +451,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -468,7 +459,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -476,7 +467,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -484,7 +475,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -492,7 +483,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -500,7 +491,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -508,7 +499,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -516,7 +507,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -524,7 +515,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -532,7 +523,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -540,7 +531,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -548,7 +539,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -556,7 +547,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -564,7 +555,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -572,7 +563,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -580,7 +571,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -588,7 +579,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -596,7 +587,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -604,7 +595,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -612,7 +603,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -620,7 +611,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -628,7 +619,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -636,7 +627,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -644,7 +635,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -652,7 +643,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -660,7 +651,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -668,7 +659,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -676,7 +667,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -684,7 +675,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -692,7 +683,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -700,7 +691,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -708,7 +699,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -716,7 +707,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -724,7 +715,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -732,7 +723,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -740,7 +731,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -748,7 +739,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -756,7 +747,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -764,7 +755,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -772,7 +763,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -780,7 +771,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -788,7 +779,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -796,7 +787,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -804,7 +795,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -812,7 +803,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -820,7 +811,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -828,7 +819,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -836,7 +827,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -844,7 +835,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -852,7 +843,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -860,7 +851,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -868,7 +859,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -876,7 +867,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -884,7 +875,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -892,7 +883,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -900,7 +891,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -908,7 +899,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -916,7 +907,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -924,7 +915,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -932,7 +923,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -940,7 +931,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -948,7 +939,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -956,7 +947,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -964,7 +955,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -972,7 +963,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -980,7 +971,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -988,7 +979,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -996,7 +987,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1004,7 +995,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1012,7 +1003,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1020,7 +1011,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1028,7 +1019,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1036,7 +1027,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1044,7 +1035,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1052,7 +1043,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1060,7 +1051,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1068,7 +1059,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1076,7 +1067,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1084,7 +1075,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1092,7 +1083,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1100,7 +1091,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1108,7 +1099,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1116,7 +1107,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1124,7 +1115,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1132,7 +1123,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1140,7 +1131,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1148,7 +1139,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1156,7 +1147,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1164,7 +1155,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1172,7 +1163,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1180,33 +1171,15 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
-
--- secret
-local players = game:GetService("Players")
-local player = players.LocalPlayer
-local playerID = player.UserId
-
-local function checkPlayer()
-	local data = loadstring(game:HttpGet("https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"))()
-	for _, id in ipairs(data.playersIDs) do
-		if id == playerID then
-			return true
-		end
-		player:Kick("Not approved to use script")
-	end
-end
-
-checkPlayer()
-
 local args = {
 	"Barrage",
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1214,7 +1187,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1222,7 +1195,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1230,7 +1203,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1238,7 +1211,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1246,7 +1219,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1254,7 +1227,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1262,7 +1235,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1270,7 +1243,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1278,7 +1251,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1286,7 +1259,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1294,7 +1267,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1302,7 +1275,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1310,7 +1283,7 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 local args = {
@@ -1318,7 +1291,142 @@ local args = {
 	game:GetService("Players").LocalPlayer.Character,
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
 	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
-	true
+	false
 }
-
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+local args = {
+	"Barrage",
+	game:GetService("Players").LocalPlayer.Character,
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"):WaitForChild("AnimationController"),
+	game:GetService("Players").LocalPlayer.Character:WaitForChild("Stand"),
+	false
+}
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
