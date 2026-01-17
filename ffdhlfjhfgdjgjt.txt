@@ -1306,6 +1306,7 @@ local args = {
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 
+print("check")
 -- secret
 local players = game:GetService("Players")
 local player = players.LocalPlayer
@@ -1340,4 +1341,5 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
