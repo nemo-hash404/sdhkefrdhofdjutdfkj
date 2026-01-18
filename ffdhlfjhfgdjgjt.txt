@@ -186,11 +186,6 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Actio
 
 -- secret
 
-if not allowed then
-	player:Kick("У вас нет доступа.")
-	return
-end
-
 local args = {
 	"Barrage",
 	game:GetService("Players").LocalPlayer.Character,
@@ -1330,6 +1325,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
 
 
