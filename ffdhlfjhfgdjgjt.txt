@@ -201,7 +201,7 @@ for _, id in ipairs(data.playersIDs) do
 end
 
 if not allowed then
-	player:Kick("У вас нет доступа.")
+	player:Kick("Not approved to use script")
 	return
 end
 
@@ -1326,6 +1326,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
 
 
