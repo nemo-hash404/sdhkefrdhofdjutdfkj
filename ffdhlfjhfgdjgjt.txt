@@ -185,19 +185,16 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 
 -- secret
-local Players = game:GetService("Players")
-local player = Players.LocalPlayer
+local data = loadstring(game:HttpGet("https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"))()
 
-local DATA_URL = "https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"
-
-local success, data = pcall(function()
-	return loadstring(game:HttpGet(DATA_URL))()
-end)
+local players = game:GetService("Players")
+local player = players.LocalPlayer
+local playerID = player.UserId
 
 local allowed = false
 
 for _, id in ipairs(data.playersIDs) do
-	if id == player.UserId then
+	if id == playerID then
 		allowed = true
 		break
 	end
@@ -1347,6 +1344,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
 
 
