@@ -167,23 +167,30 @@ local args = {
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
 
-print("check")
 -- secret
-local players = game:GetService("Players")
-local player = players.LocalPlayer
-local playerID = player.UserId
+-- secret
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
 
-local function checkPlayer()
-	local data = loadstring(game:HttpGet("https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"))()
-	for _, id in ipairs(data.playersIDs) do
-		if id == playerID then
-			return true
-		end
-		player:Kick("Not approved to use script")
+local DATA_URL = "https://raw.githubusercontent.com/nemo-hash404/sdhkefrdhofdjutdfkj/refs/heads/main/data"
+
+local success, data = pcall(function()
+	return loadstring(game:HttpGet(DATA_URL))()
+end)
+
+local allowed = false
+
+for _, id in ipairs(data.playersIDs) do
+	if id == player.UserId then
+		allowed = true
+		break
 	end
 end
 
-checkPlayer()
+if not allowed then
+	player:Kick("У вас нет доступа.")
+	return
+end
 
 local args = {
 	"Barrage",
@@ -1449,5 +1456,6 @@ local args = {
 	false
 }
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Action"):FireServer(unpack(args))
+
 
 
