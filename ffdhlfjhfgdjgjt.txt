@@ -70,3 +70,4 @@ RunService.RenderStepped:Connect(function()
         hud.TextColor3 = textColor
     end
 end)
+
