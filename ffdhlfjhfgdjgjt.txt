@@ -32,19 +32,6 @@ Background.ImageTransparency = 0.3
 Background.ScaleType = Enum.ScaleType.Stretch
 Background.ZIndex = 0
 
--- 🌈 RGB ANIMATION
-local hue = 0
-RunService.RenderStepped:Connect(function()
-    hue = (hue + 0.01) % 1
-    local bgColor = Color3.fromHSV(hue, 1, 1)
-    local textColor = Color3.fromHSV((hue + 0.5) % 1, 1, 1)
-
-    for _, hud in pairs(huds) do -- ✅ correction ici
-        hud.BackgroundColor3 = bgColor
-        hud.TextColor3 = textColor
-    end
-end)
-
 -- 🎵 MUSIQUE
 local Sound = Instance.new("Sound")
 Sound.Parent = SoundService
@@ -70,3 +57,16 @@ for i = 1, 25 do
 
     table.insert(huds, TextLabel)
 end
+
+-- 🌈 RGB ANIMATION
+local hue = 0
+RunService.RenderStepped:Connect(function()
+    hue = (hue + 0.01) % 1
+    local bgColor = Color3.fromHSV(hue, 1, 1)
+    local textColor = Color3.fromHSV((hue + 0.5) % 1, 1, 1)
+
+    for _, hud in pairs(huds) do -- ✅ correction ici
+        hud.BackgroundColor3 = bgColor
+        hud.TextColor3 = textColor
+    end
+end)
